@@ -108,6 +108,7 @@ def plot():
     plt.xlabel("time (s)")
     plt.ylabel("position (x10^6)(m)")
     plt.show()
+    return
 
 
 plot()
